@@ -1,12 +1,3 @@
-# RMSC 4002 Financial Data Analytics with Machine Learning
-# Group 2
-# Cornelius Gilbert 1155147665
-# Teng Koon Dexter Woo 1155149528
-# Sin Chi Man 1155159539
-# Lam Yat Hin 1155157629
-# Kwok Chun Nam 1155143692
-
-
 library(tseries)
 library(zoo)
 library(psych)
